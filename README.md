@@ -1,5 +1,5 @@
 # 💫 About Me:
-📚Graduate of Codeable<br>🤝 Looking for new opportunities<br>🌱 I am currently learning React , Vue.js<br>💬 Ask me about crypto 🪙<br>⚡ Fun fact, I love programming.
+📚Graduate of Codeable<br>🤝 Looking for new opportunities<br>🌱 I am currently learning React , React Native<br>💬 Ask me about crypto 🪙<br>⚡ Fun fact, I love programming.
 
 
 ## 🌐 Socials:
