@@ -1,6 +1,6 @@
 # 💫 About Me:
 <img align="right" height="150" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExZTE1amJmbHl2eXpnNGFqd3hwYzY5MmF1ZmNhaHZia2Fhcm1zMWtnbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/BaDsH4FpMBnqdK8J0g/giphy.gif"  />
-📚Graduate of ISIL and Codeable<br>🤝 Looking for new opportunities<br>🌱 Knowledge of React.js and React Native<br>💬 Learning Flutter and Node.js! 🪙<br>⚡ Fun fact, I love programming.
+📚Graduate of Codeable<br>🤝 Looking for new opportunities<br>🌱 Knowledge of React.js and React Native<br>💬 Learning Flutter and Node.js! 🪙<br>⚡ Fun fact, I love programming.
 
 ## 🌐 Socials:
 <div align="left">
